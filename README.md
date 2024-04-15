@@ -1,6 +1,6 @@
 # basicJS_Kanban Board: [LIVE DEMO](https://shcoobz.github.io/basicJS_kanban-board/)
 
-![basicJS_Kanban Board](img/basicJS_Kanban-Board.png)
+![basicJS_Kanban Board](img/basicJS_kanban-board.png)
 
 ## Summary
 
