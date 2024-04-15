@@ -184,6 +184,11 @@ function dragEnter(column) {
   currentColumn = column;
 }
 
+// When Item Leaves Column Area
+function dragLeave(column) {
+  listColumns[column].classList.remove('over');
+}
+
 // Dropping Item in Colum
 function drop(e) {
   e.preventDefault();
